@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://waftlord.github.io/clashball-multiplayer-alpha/](https://waftlord.github.io/clashball-multiplayer-alpha/)
+> Open this page at [https://waftlord.github.io/clashball/](https://waftlord.github.io/clashball/)
 
 ## Use as Extension
 
