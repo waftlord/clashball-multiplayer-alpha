@@ -1,5 +1,5 @@
 {
-    "name": "ClashBall Multiplayer Alpha",
+    "name": "ClashBall Multiplayer",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -26,5 +26,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
